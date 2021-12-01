@@ -18,4 +18,6 @@ Contains each iteration on presentations I created. 'Presentation_ Traffic and W
 
 ### Base directory
 
-Contains my code in pdf and ipynb format. Combiner.ipynb combines the crash data and weather data into combined.csv. To run, place combined.csv in your working directory, and run the code.
+Contains my code in pdf and ipynb format. Combiner.ipynb combines the crash data and weather data into combined.csv. WeatherCleaner.ipynb cleans the weather data (or does it clean the weather?)
+
+To run, place combined.csv in your working directory, and run the code.
