@@ -36,6 +36,8 @@ Mask wearing in East Asia has been popular for at least a century, which could b
 
 Overall, the South Korean response to Covid-19 was incredibly effective when compared to the approach the U.S. took, and while some level of freedom was maintained by the U.S, it remains a question what good freedom from government intervention is when nature reigns that freedom in through disease. The data seems to suggest that the U.S, or even a more worldwide, big data approach to contact tracing could allow us as a species to more effectively combat future pandemics, using a more unified, effective method.
 
+## Sources
+
 Coronavirus cases: Worldometer. (n.d.). Retrieved December 2, 2021, from https://www.worldometers.info/coronavirus/. 
 
 Humanities, S. of. (n.d.). 3 questions: Historian Emma Teng on Face Masks as 公德心. MIT News | Massachusetts Institute of Technology. Retrieved December 2, 2021, from https://news.mit.edu/2020/meanings-face-masks-emma-teng-0819. 
