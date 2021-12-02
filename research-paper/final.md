@@ -15,9 +15,12 @@ Kim then talked to a law professor, that said
 
 >The United States was quick to ban businesses, while countries like France instituted lockdowns. But South Korea hasn’t been able to do the same because we’re very cautious about these kinds of measures, in the same way that other countries are cautious about privacy... few countries were getting away with not sacrificing some kinds of freedom. As Kim pointed out, the true question was which freedoms to prioritize... sacrificing some individual privacy was simply the upfront cost of avoiding more debilitating consequences down the line.
 
-To combat concerns from the public about government scrutiny, South Korea has made a case for what Kim calls "virtuous surveillance—a radically transparent version of people-tracking that is subject to public scrutiny and paired with stringent legal safeguards against abuse". Their results, shown previously, speak for themselves. Even so, there have been studies performed, such as "Contact Tracing during Coronavirus Disease Outbreak, South Korea, 2020" which detail similar findings:
+To combat concerns from the public about government scrutiny, South Korea has made a case for what Kim calls "virtuous surveillance—a radically transparent version of people-tracking that is subject to public scrutiny and paired with stringent legal safeguards against abuse". Their results, shown previously, speak for themselves. To solidify the case that it was, at least in large part due to contact tracing, there have been studies performed, such as "Contact Tracing during Coronavirus Disease Outbreak, South Korea, 2020" which detail positive findings:
 
 >We analyzed reports for 59,073 contacts of 5,706 coronavirus disease (COVID-19) index patients reported in South Korea during January 20–March 27, 2020. Of 10,592 household contacts, 11.8% had COVID-19. Of 48,481 nonhousehold contacts, 1.9% had COVID-19. **Use of personal protective measures and social distancing reduces the likelihood of transmission.**
+![a45416c6d9e46f8d2624d6efd2621ce1](https://user-images.githubusercontent.com/65786240/144351614-8e4c6ef3-5bd4-4579-8cb4-4de12caa3ef6.png)
+
+![3af60f646db0d9a75e9e20ed125c48ef](https://user-images.githubusercontent.com/65786240/144351658-9d882450-56fb-481b-8c56-23705b16b6c4.png)
 
 While South Korea's method didn't exactly involve big data specifically, if expanded to areas with a more serious in-progress infection, or even the world, the number of entries would be moving into the millions, rather than the the tens of thousands they saw, while tracking their individual routes to alert those they may have been in contact with.
 
