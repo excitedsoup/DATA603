@@ -31,3 +31,21 @@ However, there is another, possibly glaring, issue to consider. Public perceptio
 
 >In East Asia, face masks are worn for a wide range of purposes. Combating urban pollution is a top reason for many, but it’s also common to wear a face mask to prevent allergies, for extra sun protection, or even because you want to run down to the corner shop anonymously and it’s too early to face your neighbors.
 >Masks can sometimes provide a little extra privacy in densely populated East Asian cities — on the subway or train, for example. In cold and flu season, many consider it prudent to wear a face mask and carry disposable hand wipes to fight contagion. And if you have a cold yourself, you are expected as a matter of basic etiquette to wear a face mask out in public, in the office, and at school in order to protect others from possible infection.
+
+Mask wearing in East Asia has been popular for at least a century, which could be part of why it was so easily accepted there. However, Tang also says "the use of masks as a public health measure in East Asia seems to have arisen with the 1918 influenza pandemic..." (Teng), which makes it seem plausible that this could be the start of a similar culture developing more widely around the world. A change of public perception such as that could easily expand people's minds to be accepting of large amounts of government involvement in the form of contact tracing to greatly reduce the impact of the next large pandemic.
+
+Overall, the South Korean response to Covid-19 was incredibly effective when compared to the approach the U.S. took, and while some level of freedom was maintained by the U.S, it remains a question what good freedom from government intervention is when nature reigns that freedom in through disease. The data seems to suggest that the U.S, or even a more worldwide, big data approach to contact tracing could allow us as a species to more effectively combat future pandemics, using a more unified, effective method.
+
+Coronavirus cases: Worldometer. (n.d.). Retrieved December 2, 2021, from https://www.worldometers.info/coronavirus/. 
+
+Humanities, S. of. (n.d.). 3 questions: Historian Emma Teng on Face Masks as 公德心. MIT News | Massachusetts Institute of Technology. Retrieved December 2, 2021, from https://news.mit.edu/2020/meanings-face-masks-emma-teng-0819. 
+
+Kim, M. S., Taladrid, S., &amp; Marshall, C. (2020, April 17). Seoul's radical experiment in digital contact tracing. The New Yorker. Retrieved December 2, 2021, from https://www.newyorker.com/news/news-desk/seouls-radical-experiment-in-digital-contact-tracing. 
+
+Park, Y. J., Choe, Y. J., Park, O., Park, S. Y., Kim, Y.-M., Kim, J., Kweon, S., Woo, Y., Gwack, J., Kim, S. S., Lee, J., Hyun, J., Ryu, B., Jang, Y. S., Kim, H., Shin, S. H., Yi, S., Lee, S., Kim, H. K., … COVID-19 National Emergency Response Center, Epidemiology and Case Management Team. (2020, October). Contact tracing during coronavirus disease outbreak, South Korea, 2020. Emerging infectious diseases. Retrieved December 2, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510731/. 
+
+Ritchie, H., Mathieu, E., Rodés-Guirao, L., Appel, C., Giattino, C., Ortiz-Ospina, E., Hasell, J., Macdonald, B., Beltekian, D., &amp; Roser, M. (2020, March 5). South Korea: Coronavirus pandemic country profile. Our World in Data. Retrieved December 2, 2021, from https://ourworldindata.org/coronavirus/country/south-korea. 
+
+Sangchul Park, J. S. D. (2020, June 2). Privacy controversies around information technology–based COVID-19 tracing in South Korea. JAMA. Retrieved December 2, 2021, from https://jamanetwork.com/journals/jama/article-abstract/2765252. 
+
+Taylor, S., &amp; Asmundson, G. J. G. (2021, February 17). Negative attitudes about facemasks during the COVID-19 pandemic: The dual importance of perceived ineffectiveness and psychological reactance. PloS one. Retrieved December 2, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7888611/. 
