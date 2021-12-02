@@ -21,6 +21,8 @@ To combat concerns from the public about government scrutiny, South Korea has ma
 
 ## Shows occurence of reduction in cases
 
+![945de8f5bbbc2edaca38178c7e95aaad](https://user-images.githubusercontent.com/65786240/144354195-b8fd555c-2e4a-4644-a7b2-d5da77fe3487.png)
+
 ![3af60f646db0d9a75e9e20ed125c48ef](https://user-images.githubusercontent.com/65786240/144351658-9d882450-56fb-481b-8c56-23705b16b6c4.png)
 
 While South Korea's method didn't exactly involve big data specifically, if expanded to areas with a more serious in-progress infection, or even the world, the number of entries would be moving into the millions, rather than the the tens of thousands they saw, while tracking their individual routes to alert those they may have been in contact with.
